@@ -102,3 +102,13 @@ hospital_db
 - MySQL Workbench
 - Git (versiyon kontrolü)
 
+## ÇIKTILAR
+
+![Ekran görüntüsü 2025-01-02 025512](https://github.com/user-attachments/assets/c43098a8-6f91-428a-8dde-bf5441574ca4)
+![Ekran görüntüsü 2025-01-02 025534](https://github.com/user-attachments/assets/c8eb7232-10cb-4226-8614-d09b729fd3a3)
+
+Responsive tasarımı incelemek içim:
+https://1drv.ms/v/s!Amdyvbx_nJGhg_AgHIEWHh0X8fdoKA?e=TdYPOc 
+
+Siteyi incelemek için:
+https://1drv.ms/v/s!Amdyvbx_nJGhg_Ah-cj1WAxbJwRGzA?e=dtKVcO
